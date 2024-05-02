@@ -1,4 +1,6 @@
 N-Queen program which uses "Recursion and Multi-Threading" to get solutions.
+
+-> Without file
 _________________________________
 Order   |   Time-Taken (seconds)
 4       |   0.001187
@@ -15,3 +17,22 @@ Order   |   Time-Taken (seconds)
 15      |   5.639182
 16      |   43.272198
 17      |   470.036628
+
+
+-> With File
+_________________________________
+Order   |   Time-Taken (seconds)
+4       |   0.030559
+5       |   0.030519
+6       |   0.034391
+7       |   0.039229
+8       |   0.041857
+9       |   0.049007
+10      |   0.047255
+11      |   0.081228
+12      |   0.127835
+13      |   0.347473
+14      |   1.164035
+15      |   7.456889
+16      |   55.427349
+17      |   472.658629
